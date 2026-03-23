@@ -1,7 +1,7 @@
 # Implement Calculator Application
 
 # Addition Function
-def add(a, b):
+def add(a,b):
     return a + b
 
 
